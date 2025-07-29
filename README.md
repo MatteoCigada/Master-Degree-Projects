@@ -5,7 +5,7 @@ This repository contains projects/reports delivered during my master degree in M
 ## 1. Experimental Modal Analysis
 
 - **Course:** ***Advanced Dynamics of Mechanical Systems***
-  - **Professor:** Prof. R. Corradi, Dr. I. La Paglia
+    - **Instructors:** Prof. R. Corradi, Dr. I. La Paglia
 - **Date:** September 2024 - December 2024
 - **Keywords:** Experimental Modal Analysis, Cantilever Beam, Light Rail Wheel, Natural Frequencies, Mode Shapes, Frequency Response Functions (FRF), Modal Parameter Identification
 - **Software used:** MATLAB
@@ -19,7 +19,7 @@ This repository contains projects/reports delivered during my master degree in M
 ## 2. In-plane Finite Element Model of a Truss Bridge
 
 - **Course:** ***Advanced Dynamics of Mechanical Systems***
-  - **Professor:** Prof. R. Corradi, Dr. I. La Paglia
+    - **Instructors:** Prof. R. Corradi, Dr. I. La Paglia
 - **Date:** September 2024 - December 2024
 - **Keywords:** Finite Element Model (FEM), Truss Bridge, Natural Frequencies, Mode Shapes, Frequency Response Functions (FRF), Tuned Mass Damper (TMD), Static Response, Critical Velocities
 - **Software used:** MATLAB
