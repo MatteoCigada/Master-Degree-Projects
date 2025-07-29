@@ -129,3 +129,17 @@ This repository contains projects/reports delivered during my master degree in M
 * [Link to Project Report (PDF)](./Vehicle%20Dynamics%20and%20Control%20A/Lab_03_VerticalDynamics.pdf)
   
 ---
+
+## 10. Lateral Dynamics of a Car Modelling 
+
+- **Course:** ***Vehicle Dynamics and Control A***
+    - **Instructors:** Prof. F. Cheli, Prof. M. Vignati, Dr. M. Belloni
+- **Authors:** M. Cigada, F. D'Agostini, S. D'Incà
+- **Date:** February 2025 - June 2025
+- **Keywords:** Effective Axle Characteristic Cruve, Single Track Model, Stability Analysis, Steering Step, Sine Dwell, Path Follower, Double Lane Change, Sine Sweep  
+- **Software used:** MATLAB, Simulink
+- **Goal of the project:** Derive the equivalent axle characteristic curve, investigate the effect of making the front stiffer with respect to the rear, lienarize the single track model equations, study the stability using the eigenvalues of the state space matrix, study the stability and the behaviour of the car in steady state and in transient maneuvers    
+
+* [Link to Project Report (PDF)](./Vehicle%20Dynamics%20and%20Control%20A/Lab_05_a_LateralDynamics%20-%20DEFINITIVO.pdf)
+  
+---
