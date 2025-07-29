@@ -62,7 +62,7 @@ This repository contains projects/reports delivered during my master degree in M
 ## 5. CFD Analysis of a 2D nozzle 
 
 - **Course:** ***Computational Fluid Dynamics - Fundamentals***
-    - **Instructors:** Prof. G. Montenegro, G.B.A. Persico
+    - **Instructors:** Prof. G. Montenegro, Prof. G.B.A. Persico
 - **Authors:** M. Cigada, F. D'Agostini, S. D'Incà
 - **Date:** February 2025 - June 2025
 - **Keywords:** Laminar Flow, Turbulent Flow, k-Omega SST, Wall Functions, yPlus, Grid Independence
@@ -76,7 +76,7 @@ This repository contains projects/reports delivered during my master degree in M
 ## 6. CFD Analysis of a 2D NACA 4412 Profile 
 
 - **Course:** ***Computational Fluid Dynamics - Fundamentals***
-    - **Instructors:** Prof. G. Montenegro, G.B.A. Persico
+    - **Instructors:** Prof. G. Montenegro, Prof. G.B.A. Persico
 - **Authors:** M. Cigada, F. D'Agostini, S. D'Incà
 - **Date:** February 2025 - June 2025
 - **Keywords:** Laminar Flow, Turbulent Flow, SA, kEpsilon, Wall Functions, yPlus, Grid Independence
@@ -84,5 +84,19 @@ This repository contains projects/reports delivered during my master degree in M
 - **Goal of the project:** Analyze a 2D flow around a NACA 4412 profile, covering laminar and turbulent flow conditions (with and without wall functions), select proper discretization schemes, refine the mesh while respecting the conditions on the yPlus, highlight the importance of achieving grid independence, highlight the difference between different turbulence models, compute/extract useful data such as the shear stresses on the profile, the lift and drag coefficients, the velocity distribution downstream of the profile, the static/total pressure distribution along the airfoil   
 
 * [Link to Project Report (PDF)](./CFD_Fundamentals/CFD%20project%20REPORT%20-%20ES2%20-%20group%205.pdf)
+
+---
+
+## 7. Road-Tire Contact Forces Modelling 
+
+- **Course:** ***Vehicle Dynamics and Control A***
+    - **Instructors:** Prof. F. Cheli, Prof. M. Vignati, Dr. M. Belloni
+- **Authors:** M. Cigada, F. D'Agostini, S. D'Incà
+- **Date:** February 2025 - June 2025
+- **Keywords:** Pacejka Model, Longitudinal and Lateral Forces, Combined Slip Effect, Vertical Load Effect, Transient Behaviour 
+- **Software used:** MATLAB, Simulink
+- **Goal of the project:** Highlight the effect of different parameters on the road-tire contact forces, analyze the effect of combined slip and of the vertical load     
+
+* [Link to Project Report (PDF)](./Vehicle%20Dynamics%20And%20Control%20A/Lab_01_Tires.pdf)
 
 ---
