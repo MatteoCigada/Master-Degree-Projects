@@ -65,9 +65,9 @@ This repository contains projects/reports delivered during my master degree in M
     - **Instructors:** Prof. G. Montenegro, G.B.A. Persico
 - **Authors:** M. Cigada, F. D'Agostini, S. D'Incà
 - **Date:** February 2025 - June 2025
-- **Keywords:** 
+- **Keywords:** Laminar Flow, Turbulent Flow, k-Omega SST, Wall Functions, yPlus, Grid Independence
 - **Software used:** OpenFOAM, ParaView, MATLAB
-- **Goal of the project:** Collect the raw sensors' data in a well-organized dataset, highlight the key differences between a gentlemen driver and a pro-driver, analyze dampers' data in time and frequency domain to characterize the vertical dynamics of the car (first natural frequency has been identified), summarize everything into time frequency analysis
+- **Goal of the project:** Analyze a 2D flow inside a nozzle, covering laminar and turbulent flow conditions (with and without wall functions), select proper discretization schemes, refine the mesh while respecting the conditions on the yPlus, highlight the importance of achieving grid independence, compute/extract useful data such as the flow rate, the mean velocity at the outlet, the shear stresses on the walls and the static/total pressure distributions along the nozzle   
 
 * [Link to Project Report (PDF)](./Data%20Analysis%20for%20Future%20Transportation%20Systems/MC%20DAFTS%20project%20presentation.pdf)
 
