@@ -4,9 +4,9 @@ This repository contains projects/reports delivered during my master degree in M
 
 ## 1. Experimental Modal Analysis
 
-**Course: Advanced Dynamics of Mechanical Systems** 
-**Date:** [September 2024 - December 2024]
-**Keywords:** [e.g., Regression, Hypothesis Testing, R Programming]
+- **Course: Advanced Dynamics of Mechanical Systems** 
+- **Date:** [September 2024 - December 2024]
+- **Keywords:** [e.g., Regression, Hypothesis Testing, R Programming]
 
 This project focused on **[briefly explain the main objective or problem this project addressed]**. We utilized **[mention key methodologies, theories, or approaches used]** to **[explain what you did, e.g., analyze a specific dataset, design a system, develop a policy proposal]**. The primary goal was to **[state the intended outcome or contribution]**. Key findings included **[mention 1-2 significant results or conclusions]**.
 
