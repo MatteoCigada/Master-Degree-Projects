@@ -45,7 +45,7 @@ This repository contains projects/reports delivered during my master degree in M
 
 ---
 
-## 4. Data Analysis of a racecar 
+## 4. Data Analysis of a Racecar 
 
 - **Course:** ***Data Analysis for Future Transportation System***
     - **Instructors:** Prof. P. Chiariotti
