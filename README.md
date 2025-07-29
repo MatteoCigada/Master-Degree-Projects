@@ -17,7 +17,7 @@ This repository contains projects/reports delivered during my master degree in M
 
 ---
 
-## 1. In-plane Finite Element Model of a Truss Bridge
+## 2. In-plane Finite Element Model of a Truss Bridge
 
 - **Course:** ***Advanced Dynamics of Mechanical Systems***
     - **Instructors:** Prof. R. Corradi, Dr. I. La Paglia
@@ -31,7 +31,7 @@ This repository contains projects/reports delivered during my master degree in M
 
 ---
 
-## 1. Preliminary Design of Cruise Control
+## 3. Preliminary Design of Cruise Control
 
 - **Course:** ***Control of Mechanical Systems***
     - **Instructors:** Prof. E. Sabbioni, Dr. F. Paparazzo
