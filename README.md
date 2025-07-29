@@ -37,7 +37,7 @@ This repository contains projects/reports delivered during my master degree in M
     - **Instructors:** Prof. E. Sabbioni, Dr. F. Paparazzo
 - **Authors:** M. Cigada, F. D'Agostini, L. Gazzarrini
 -  **Date:** September 2024 - December 2024
-- **Keywords:** Cruise Control, PID, Actuator, Multi-DOF system
+- **Keywords:** Cruise Control, Feedback, PID, Actuator, Multi-DOF system
 - **Software used:** MATLAB, Simulink
 - **Goal of the project:** Compute the equation of motion (EOM) for a vehichle modelled as a rigid body accounting for road slope and drag resistance force effects, linearize the EOM about a steady state condition, design a PI/PID regulator by tuning the gains based on stability and performance analysis, investigate the impact of an actuator (electric motor) and of a deformable shaft (2 DOF sysyem) on the stability
 
@@ -99,4 +99,19 @@ This repository contains projects/reports delivered during my master degree in M
 
 * [Link to Project Report (PDF)](./Vehicle%20Dynamics%20and%20Control%20A/Lab_01_Tires.pdf)
 
+---
+
+## 8. Longitudinal Dynamics of a Car Modelling 
+
+- **Course:** ***Vehicle Dynamics and Control A***
+    - **Instructors:** Prof. F. Cheli, Prof. M. Vignati, Dr. M. Belloni
+- **Authors:** M. Cigada, F. D'Agostini, S. D'Incà
+- **Date:** February 2025 - June 2025
+- **Keywords:** Motor Working Points, Optimal Brake Distribution, Deeper Cruise Control Analysis, Feedback & Feedforward, PI, Wind-Up effect, Standard Regulations 
+- **Software used:** MATLAB, Simulink
+- **Goal of the project:** Identify the intersections between the motor driving force and the resistance force (identify the maximum speed), tune a brake distributor to achieve the optimal pressure distribution between front/rear axle, design a more complex cruise control system that combines the effect of a Feedforward and Feedback PI regulator, tune the control gains, analyze the performance of the control system in acceleration and deceleration phases, verify that the results are compliant with the limits on the accelerations imposed by the standards, investigate the wind up effect of the integral control       
+
+* [Link to Project Report - Part 1 (PDF)](./Vehicle%20Dynamics%20and%20Control%20A/Lab_02_a_LongDynamics.pdf)
+* [Link to Project Report - Part 2 (PDF)](./Vehicle%20Dynamics%20and%20Control%20A/Lab_02_b_LongDynamics.pdf)
+  
 ---
