@@ -23,7 +23,7 @@ This repository contains projects/reports delivered during my master degree in M
 - **Date:** September 2024 - December 2024
 - **Keywords:** Finite Element Model (FEM), Truss Bridge, Natural Frequencies, Mode Shapes, Frequency Response Functions (FRF), Tuned Mass Damper (TMD), Static Response, Critical Velocities
 - **Software used:** MATLAB
-- **Goal of the project:** Develop an in-plane finite element model of a truss bridge to analyze its dynamic and static behavior. This includes computing natural frequencies and mode shapes, establishing a damping matrix, determining FRFs, designing a Tuned Mass Damper (TMD) for vibration reduction, analyzing static response, and calculating critical velocities
+- **Goal of the project:** Develop an in-plane finite element model of a truss bridge to analyze its dynamic and static behavior. This includes computing natural frequencies and mode shapes, calculating the damping matrix, determining FRFs, designing a Tuned Mass Damper (TMD) for vibration reduction, analyzing static response and estimating the critical velocities
 
 * [Link to Project Report (PDF)](./Advanced%20Dynamics%20of%20Mechanical%20Systems/Project%20report%20Assignment2.pdf)
 
