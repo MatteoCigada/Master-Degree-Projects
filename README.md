@@ -32,7 +32,7 @@ This repository contains projects/reports delivered during my master degree in M
 ## 3. Preliminary Design of Cruise Control
 
 - **Course:** ***Control of Mechanical Systems***
-    - **Instructors:** Prof. E. Sabbioni
+    - **Instructors:** Prof. E. Sabbioni, Dr. F. Paparazzo
 - **Date:** September 2024 - December 2024
 - **Keywords:** Cruise Control, PID, Actuator, Multi-DOF system
 - **Software used:** MATLAB, Simulink
