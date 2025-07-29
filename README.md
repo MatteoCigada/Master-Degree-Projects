@@ -69,6 +69,6 @@ This repository contains projects/reports delivered during my master degree in M
 - **Software used:** OpenFOAM, ParaView, MATLAB
 - **Goal of the project:** Analyze a 2D flow inside a nozzle, covering laminar and turbulent flow conditions (with and without wall functions), select proper discretization schemes, refine the mesh while respecting the conditions on the yPlus, highlight the importance of achieving grid independence, compute/extract useful data such as the flow rate, the mean velocity at the outlet, the shear stresses on the walls and the static/total pressure distributions along the nozzle   
 
-* [Link to Project Report (PDF)](./Data%20Analysis%20for%20Future%20Transportation%20Systems/MC%20DAFTS%20project%20presentation.pdf)
+* [Link to Project Report (PDF)](./CFD_Fundamentals/CFD%20project%20REPORT%20-%20ES1%20-%20group%205.pdf)
 
 ---
