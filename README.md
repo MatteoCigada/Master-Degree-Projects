@@ -72,3 +72,17 @@ This repository contains projects/reports delivered during my master degree in M
 * [Link to Project Report (PDF)](./CFD_Fundamentals/CFD%20project%20REPORT%20-%20ES1%20-%20group%205.pdf)
 
 ---
+
+## 6. CFD Analysis of a 2D NACA 4412 Profile 
+
+- **Course:** ***Computational Fluid Dynamics - Fundamentals***
+    - **Instructors:** Prof. G. Montenegro, G.B.A. Persico
+- **Authors:** M. Cigada, F. D'Agostini, S. D'Incà
+- **Date:** February 2025 - June 2025
+- **Keywords:** Laminar Flow, Turbulent Flow, SA, kEpsilon, Wall Functions, yPlus, Grid Independence
+- **Software used:** OpenFOAM, ParaView, MATLAB
+- **Goal of the project:** Analyze a 2D flow around a NACA 4412 profile, covering laminar and turbulent flow conditions (with and without wall functions), select proper discretization schemes, refine the mesh while respecting the conditions on the yPlus, highlight the importance of achieving grid independence, highlight the difference between different turbulence models, compute/extract useful data such as the shear stresses on the profile, the lift and drag coefficients, the velocity distribution downstream of the profile, the static/total pressure distribution along the airfoil   
+
+* [Link to Project Report (PDF)](./CFD_Fundamentals/CFD%20project%20REPORT%20-%20ES2%20-%20group%205.pdf)
+
+---
