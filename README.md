@@ -97,6 +97,6 @@ This repository contains projects/reports delivered during my master degree in M
 - **Software used:** MATLAB, Simulink
 - **Goal of the project:** Highlight the effect of different parameters on the road-tire contact forces, analyze the effect of combined slip and of the vertical load     
 
-* [Link to Project Report (PDF)](./Vehicle%20Dynamics%20And%20Control%20A/Lab_01_Tires.pdf)
+* [Link to Project Report (PDF)](./Vehicle%20Dynamics%20and%20Control%20A/Lab_01_Tires.pdf)
 
 ---
