@@ -12,7 +12,7 @@ This repository contains projects/reports delivered during my master degree in M
 - **Goal of the project:** Analyze the behavior of a cantilever beam and a light rail wheel through the computation and identification of their modal parameters. After validating the procedure used for the cantilever beam by comparing the results with theoretical models, the same methodology has been followed for the light rail wheel. 
 
 
-* [Link to Project 1 Report (PDF)](./path/to/your/project1_report.pdf)  *(Don't click this link yet, we'll get the actual path in Part 2!)*
+* [Link to Project 1 Report (PDF)](./Advanced%20Dynamics%20of%20Mechanical%20Systems/Project%20report%20Assignment.pdf)  *(Don't click this link yet, we'll get the actual path in Part 2!)*
 
 ---
 
