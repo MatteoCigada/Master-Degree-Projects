@@ -58,3 +58,17 @@ This repository contains projects/reports delivered during my master degree in M
 * [Link to Project Report (PDF)](./Data%20Analysis%20for%20Future%20Transportation%20Systems/MC%20DAFTS%20project%20presentation.pdf)
 
 ---
+
+## 5. CFD Analysis of a 2D nozzle 
+
+- **Course:** ***Computational Fluid Dynamics - Fundamentals***
+    - **Instructors:** Prof. G. Montenegro, G.B.A. Persico
+- **Authors:** M. Cigada, F. D'Agostini, S. D'Incà
+- **Date:** February 2025 - June 2025
+- **Keywords:** 
+- **Software used:** OpenFOAM, ParaView, MATLAB
+- **Goal of the project:** Collect the raw sensors' data in a well-organized dataset, highlight the key differences between a gentlemen driver and a pro-driver, analyze dampers' data in time and frequency domain to characterize the vertical dynamics of the car (first natural frequency has been identified), summarize everything into time frequency analysis
+
+* [Link to Project Report (PDF)](./Data%20Analysis%20for%20Future%20Transportation%20Systems/MC%20DAFTS%20project%20presentation.pdf)
+
+---
