@@ -115,3 +115,17 @@ This repository contains projects/reports delivered during my master degree in M
 * [Link to Project Report - Part 2 (PDF)](./Vehicle%20Dynamics%20and%20Control%20A/Lab_02_b_LongDynamics.pdf)
   
 ---
+
+## 9. Vertical Dynamics of a Car Modelling 
+
+- **Course:** ***Vehicle Dynamics and Control A***
+    - **Instructors:** Prof. F. Cheli, Prof. M. Vignati, Dr. M. Belloni
+- **Authors:** M. Cigada, F. D'Agostini, S. D'Incà
+- **Date:** February 2025 - June 2025
+- **Keywords:** Quarter Car Model, Comfort Indices, Conflict Diagrams, Frequency Response Functions (FRFs), Passive Suspension, Semi-Active Suspension, Active Suspension  
+- **Software used:** MATLAB, Simulink
+- **Goal of the project:** Write the equations for the quarter car model, plot some useful transfer functions, investigate the effect of increasing the suspension damping, compare the behaviour of passive, semi-active and active suspensions on different road irregularity profiles           
+
+* [Link to Project Report (PDF)](./Vehicle%20Dynamics%20and%20Control%20A/Lab_03_VerticalDynamics.pdf)
+  
+---
