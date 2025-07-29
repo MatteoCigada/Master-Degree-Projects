@@ -55,6 +55,6 @@ This repository contains projects/reports delivered during my master degree in M
 - **Software used:** MATLAB
 - **Goal of the project:** Collect the raw sensors' data in a well-organized dataset, highlight the key differences between a gentlemen driver and a pro-driver, analyze dampers' data in time and frequency domain to characterize the vertical dynamics of the car (first natural frequency has been identified), summarize everything into time frequency analysis
 
-* [Link to Project Report (PDF)](./Control%20of%20Mechanical%20Systems/CMS_Presentation%20(NOTES).pdf)
+* [Link to Project Report (PDF)](./Data%20Analysis%20for%20Future%20Transportation%20Systems/MC%20DAFTS%20project%20presentation.pdf)
 
 ---
