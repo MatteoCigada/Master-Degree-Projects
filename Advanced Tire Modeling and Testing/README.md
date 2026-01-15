@@ -39,3 +39,15 @@
 * [Link to Project Report (PDF)](ATMT_lab03_report.pdf)
 
 ---
+
+## 4. Experimental data fitting
+- **Course:** ***Advanced Tire Modeling and Testing***
+    - **Instructors:** Prof. E. Sabbioni, Dr. L. Maglia
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini
+- **Date:** December 2025
+- **Keywords:** MF-Tire Model Characterization, Relaxation Length Identification, Numerical Optimization (fmincon), MATLAB Fitting Toolbox, Simplified vs. Extended Magic Formula 
+- **Software used:** MATLAB, Simulink
+- **Goal of the project:**  Build and characterize an MF-Tire 6.2 model using experimental data collected from drum machine testing. The study focuses on identifying the lateral relaxation length through both time-domain (cross-correlation) and frequency-domain (FRF) analysis to capture transient tire behavior. Furthermore, the project implements a custom optimization algorithm using fmincon to fit tire coefficients for longitudinal force, lateral force, and self-aligning moment, comparing the predictive accuracy of simplified versus extended Magic Formula versions under varying vertical loads, camber angles and inflation pressures
+* [Link to Project Report (PDF)](ATMT_lab04_report.pdf)
+
+---
