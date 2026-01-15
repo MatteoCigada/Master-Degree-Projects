@@ -23,6 +23,6 @@
 - **Software used:** MATLAB
 - **Goal of the project:** Develop an in-plane finite element model of a truss bridge to analyze its dynamic and static behavior, compute its frequencies and mode shapes, calculate the damping matrix, determine some FRFs, design a Tuned Mass Damper (TMD) for vibration reduction, analyze static response and estimate the critical velocities
 
-* [Link to Project Report (PDF)](./Advanced%20Dynamics%20of%20Mechanical%20Systems/Project%20report%20Assignment2.pdf)
+* [Link to Project Report (PDF)](Assignment2.pdf)
 
 ---
