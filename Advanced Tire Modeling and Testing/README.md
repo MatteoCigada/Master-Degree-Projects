@@ -40,7 +40,7 @@
 
 ---
 
-## 4. Experimental data fitting
+## 4. Experimental Data Fitting
 - **Course:** ***Advanced Tire Modeling and Testing***
     - **Instructors:** Prof. E. Sabbioni, Dr. L. Maglia
 - **Authors:** G. Biasolo, M. Cigada, F. D'Agostini
