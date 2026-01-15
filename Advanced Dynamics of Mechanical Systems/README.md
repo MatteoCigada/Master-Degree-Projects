@@ -9,7 +9,7 @@
 - **Goal of the project:** Analyze the behavior of a cantilever beam and a light rail wheel through the computation and identification of their modal parameters, validate the procedure used for the cantilever beam by comparing the results with theoretical models and implement the same methodology also for the light rail wheel
 
 
-* [Link to Project Report (PDF)](./Assignment1.pdf)
+* [Link to Project Report (PDF)](Assignment1.pdf)
 
 ---
 
