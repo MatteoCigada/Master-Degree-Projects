@@ -8,6 +8,6 @@
 - **Software used:** MATLAB
 - **Goal of the project:** Optimize the braking distribution of a simplified car model by varying brake piston diameters to minimize the error between ideal and real braking curves. Using the Simplex Method in MATLAB, the study identifies that performance is governed by a constant piston area ratio. Results show the optimization problem is not well-posed as it lacks solution uniqueness, suggesting the need for additional physical constraints in future designs
 
-* [Link to Project Report (PDF)](CMS_Presentation%20(NOTES).pdf)
+* [Link to Project Report (PDF)](VOD_lab01_brake_distribution.pdf)
 
 ---
