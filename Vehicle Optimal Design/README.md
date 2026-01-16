@@ -20,7 +20,7 @@
 -  **Date:** September 2025 - December 2025
 - **Keywords:** Passive Suspension, Quarter Car Model, Pareto Optimal Set, Multi-Objective Optimization, Weighted Sum Method, ε-Constraints Method, Fritz John Conditions, Discomfort, Road Holding
 - **Software used:** MATLAB
-- **Goal of the project:** The project aims to optimize a passive suspension system by identifying the Pareto optimal set between conflicting objectives: minimizing passenger discomfort and road holding. Using a quarter car model, the study evaluates various optimization strategies—including grid sorting, weighted sum, and ε-constraint methods—validated by an analytical derivation via Fritz John optimality conditions. The results define a design map for selecting optimal combinations of suspension stiffness and damping
+- **Goal of the project:** Optimize a passive suspension system by identifying the Pareto optimal set between conflicting objectives: minimizing passenger discomfort and road holding. Using a quarter car model, the study evaluates various optimization strategies—including grid sorting, weighted sum, and ε-constraint methods—validated by an analytical derivation via Fritz John optimality conditions. The results define a design map for selecting optimal combinations of suspension stiffness and damping
 
 * [Link to Project Report (PDF)](VOD_lab02_03_passive_suspension.pdf)
 
@@ -34,7 +34,7 @@
 -  **Date:** September 2025 - December 2025
 - **Keywords:** Active Suspension, Skyhook Control, Quarter Car Model, Pareto Optimal Set, ε-Constraints Method, Interior Point Algorithm, Road Holding Optimization, Vehicle Comfort, Passive vs Active Suspension Comparison
 - **Software used:** MATLAB
-- **Goal of the project:** The project optimizes an active suspension system using a Skyhook control strategy and a quarter car model to find the best trade-off between road holding and discomfort. By adjusting active stiffness and damping parameters through sorting and ε-constraint methods, the study identifies the Pareto optimal set
+- **Goal of the project:** Optimize an active suspension system using a Skyhook control strategy and a quarter car model to find the best trade-off between road holding and discomfort. By adjusting active stiffness and damping parameters through sorting and ε-constraint methods, the study identifies the Pareto optimal set
 
 * [Link to Project Report (PDF)](VOD_lab04_05_active_suspension.pdf)
 
@@ -48,8 +48,37 @@
 -  **Date:** September 2025 - December 2025
 - **Keywords:** Genetic Algorithms, Sensitivity Analysis, Mutation, Crossover, Elitism, Bit Resolution, Convergence 
 - **Software used:** MATLAB
-- **Goal of the project:** The project involves the development and implementation of a genetic algorithm to solve a two-variable minimization problem. Through a comprehensive sensitivity analysis, it investigates the impact of bit resolution, population size, and maximum iterations on the algorithm's performance
+- **Goal of the project:** Develop and implement a genetic algorithm to solve a two-variable minimization problem. Through a comprehensive sensitivity analysis, investigate the impact of bit resolution, population size, and maximum iterations on the algorithm's performance
 
-* [Link to Project Report (PDF)](VOD_lab04_05_active_suspension.pdf)
+* [Link to Project Report (PDF)](VOD_Lab06_GA.pdf)
 
 ---
+
+## 7. Genetic Algorithms - Double Wishbone Suspension
+
+- **Course:** ***Vehicle Optimal Design***
+    - **Instructors:** Prof. M. Gobbi, Eng. P. Stabile
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini
+-  **Date:** September 2025 - December 2025
+- **Keywords:** Double Wishbone Suspension, Genetic Algorithms, Multi-Objective Optimization, Pareto Front, Dominance-Based Ranking
+- **Software used:** MATLAB
+- **Goal of the project:** Optimize the geometry of a double wishbone suspension system by minimizing normalized errors for Roll Center Height (RCH) and Camber Change Rate relative to target values. Utilizing a dominance-based ranking genetic algorithm, the study successfully identifies a Pareto optimal set
+
+* [Link to Project Report (PDF)](VOD_lab07_GA_DoubleWishbone.pdf)
+
+---
+
+## 8. Design Of Experiments
+
+- **Course:** ***Vehicle Optimal Design***
+    - **Instructors:** Prof. M. Gobbi, Eng. P. Stabile
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini
+-  **Date:** September 2025 - December 2025
+- **Keywords:** Multibody Simulation, Full Factorial Design, Design of Experiments (DoE), Suspension Kinematics, Step Steer Maneuver, Hardpoint Optimization, Response Surface
+- **Software used:** ADAMS Car, ADAMS Insight
+- **Goal of the project:** Investigate the impact of suspension hardpoint coordinates on vehicle behavior using multibody models in MSC Adams. Through a Full Factorial Design of Experiments, it optimizes kinematic parameters to minimize camber and toe variations in a suspension-only analysis, and dynamic parameters to reduce roll angle and yaw rate during a full vehicle step steer maneuver
+
+* [Link to Project Report (PDF)](VOD_lab08_ADAMS.pdf)
+
+---
+
