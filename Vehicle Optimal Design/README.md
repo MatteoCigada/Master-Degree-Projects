@@ -82,3 +82,17 @@
 
 ---
 
+## 9. Neural Network
+
+- **Course:** ***Vehicle Optimal Design***
+    - **Instructors:** Prof. M. Gobbi, Eng. P. Stabile
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini
+-  **Date:** September 2025 - December 2025
+- **Keywords:** Multi-Layer Feedforward Network (MLFFN), Sensitivity Analysis, Fractional Factorial Design, Neural Network Topology, Back-propagation, Hidden Layers, Spearman Correlation
+- **Software used:** MATLAB
+- **Goal of the project:** Investigate the use of a Multi-Layer Feedforward Network (MLFFN) to approximate a two-variable analytical function. Through sensitivity analysis and a fractional factorial design (CCD-Faced), the study evaluates the impact of training set size, network topology, and training ratios on global error
+
+* [Link to Project Report (PDF)](VOD_Lab09_NeuralNetwork.pdf)
+
+---
+
