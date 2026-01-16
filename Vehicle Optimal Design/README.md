@@ -26,8 +26,7 @@
 
 ---
 
-
-## 2,3. Active Suspension
+## 4,5. Active Suspension
 
 - **Course:** ***Vehicle Optimal Design***
     - **Instructors:** Prof. M. Gobbi, Eng. P. Stabile
@@ -36,6 +35,20 @@
 - **Keywords:** Active Suspension, Skyhook Control, Quarter Car Model, Pareto Optimal Set, ε-Constraints Method, Interior Point Algorithm, Road Holding Optimization, Vehicle Comfort, Passive vs Active Suspension Comparison
 - **Software used:** MATLAB
 - **Goal of the project:** The project optimizes an active suspension system using a Skyhook control strategy and a quarter car model to find the best trade-off between road holding and discomfort. By adjusting active stiffness and damping parameters through sorting and ε-constraint methods, the study identifies the Pareto optimal set
+
+* [Link to Project Report (PDF)](VOD_lab04_05_active_suspension.pdf)
+
+---
+
+## 6. Genetic Algorithms
+
+- **Course:** ***Vehicle Optimal Design***
+    - **Instructors:** Prof. M. Gobbi, Eng. P. Stabile
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini
+-  **Date:** September 2025 - December 2025
+- **Keywords:** Genetic Algorithms, Sensitivity Analysis, Mutation, Crossover, Elitism, Bit Resolution, Convergence 
+- **Software used:** MATLAB
+- **Goal of the project:** The project involves the development and implementation of a genetic algorithm to solve a two-variable minimization problem. Through a comprehensive sensitivity analysis, it investigates the impact of bit resolution, population size, and maximum iterations on the algorithm's performance
 
 * [Link to Project Report (PDF)](VOD_lab04_05_active_suspension.pdf)
 
