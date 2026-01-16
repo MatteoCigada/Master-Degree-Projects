@@ -90,9 +90,50 @@
 -  **Date:** September 2025 - December 2025
 - **Keywords:** Multi-Layer Feedforward Network (MLFFN), Sensitivity Analysis, Fractional Factorial Design, Neural Network Topology, Back-propagation, Hidden Layers, Spearman Correlation
 - **Software used:** MATLAB
-- **Goal of the project:** Investigate the use of a Multi-Layer Feedforward Network (MLFFN) to approximate a two-variable analytical function. Through sensitivity analysis and a fractional factorial design (CCD-Faced), the study evaluates the impact of training set size, network topology, and training ratios on global error
+- **Goal of the project:** Investigate the use of a Multi-Layer Feedforward Network (MLFFN) to approximate a two-variable analytical function. Through sensitivity analysis and a fractional factorial design of experments (CCD-Faced), the study evaluates the impact of training set size, network topology, and training ratios on global error
 
 * [Link to Project Report (PDF)](VOD_Lab09_NeuralNetwork.pdf)
 
 ---
 
+## 10. Neural Network - Handling Optimization
+
+- **Course:** ***Vehicle Optimal Design***
+    - **Instructors:** Prof. M. Gobbi, Eng. P. Stabile
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini
+-  **Date:** September 2025 - December 2025
+- **Keywords:** Multi-Layer Feedforward Network (MLFFN), Vehicle Handling, Multi-Objective Optimization, Lateral Dynamics, Spearman Correlation
+- **Software used:** MATLAB
+- **Goal of the project:** Optimize the vehicle handling performance by using an Artificial Neural Network (ANN) to model the non-linear relationships between mass distribution, anti-roll bar stiffness, and stability metrics. Trained on Vi-CarRealTime simulation data, the ANN predicts lateral acceleration, handling diagram curvature, and yaw rate variations. The study utilizes Spearman correlation to confirm conflicting objectives and identifies a 3D Pareto optimal set to guide strategic trade-offs in vehicle design
+
+* [Link to Project Report (PDF)](VOD_Lab10_NN_Handling.pdf)
+
+---
+
+## 11. Topological Optimization
+
+- **Course:** ***Vehicle Optimal Design***
+    - **Instructors:** Prof. M. Gobbi, Eng. P. Stabile
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini
+-  **Date:** September 2025 - December 2025
+- **Keywords:** Topological Optimization, SIMP Algorithm,Lightweight Design, MacPherson Suspension, Finite Element Method
+- **Software used:** MATLAB, ALTAIR Inspire
+- **Goal of the project:** Investigate topological optimization as a methodology for lightweight vehicle design, focusing on structural efficiency and material distribution. Using the SIMP algorithm in MATLAB to study mesh dependency and penalization factors in beams, and Altair Inspire for a MacPherson lower control arm
+
+* [Link to Project Report (PDF)](VOD_lab11_topologicOptimization.pdf)
+
+---
+
+## 12. Reinforcement Learning
+
+- **Course:** ***Vehicle Optimal Design***
+    - **Instructors:** Prof. M. Gobbi, Dr. R. Malacrida
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini
+-  **Date:** September 2025 - December 2025
+- **Keywords:** Reinforcement Learning, MORL-DB Algorithm, Multi-Objective Optimization, Reward Function Design, Pareto Dominance, Double Wishbone Suspension
+- **Software used:** MATLAB, Simulink
+- **Goal of the project:** Apply Reinforcement Learning (RL) to optimize the hardpoint coordinates of a double wishbone suspension system, targeting minimized errors in camber and toe. By evaluating two reward strategies—strict Pareto dominance and rank-based rewards—the study identifies trade-offs in solution diversity and convergence
+
+* [Link to Project Report (PDF)](VOD_Lab12_ReinforcementLearning.pdf)
+
+---
