@@ -25,3 +25,17 @@
 * [Link to Project Report (PDF)](RORVD_lab03_2_HEV_Vehicle.pdf)
 
 ---
+
+## 3. WLTP Cycle
+
+- **Course:** ***Road and Off Road Vehicle Design***
+    - **Instructors:** Prof. G. Mastinu, Ing. Stabile
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini, S. D'Incà
+- **Date:** October 2025
+- **Keywords:** Vertical Dynamics, Quarter Car Model, Discomfort, Road Holding, Working Space
+- **Software used:** MATLAB
+- **Goal of the project:** Investigate the vertical dynamic behavior of three distinct vehicles (Giulietta, Alfetta, 159) using a quarter car model. The study independently analyzes how variations in mechanical parameters (mass, stiffness, damping) affect the discomfort index, defined as the standard deviation of the sprung mass vertical acceleration.
+
+* [Link to Project Report (PDF)](RORVD_lab04_1_Comfort.pdf)
+
+---
