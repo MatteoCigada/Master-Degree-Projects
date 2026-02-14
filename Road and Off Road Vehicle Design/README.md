@@ -11,3 +11,17 @@
 * [Link to Project Report (PDF)](RORVD_lab01_1_Vehicle_Performance.pdf)
 
 ---
+
+## 2. WLTP Cycle
+
+- **Course:** ***Road and Off Road Vehicle Design***
+    - **Instructors:** Prof. G. Mastinu, Ing. Stabile
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini, S. D'Incà
+- **Date:** October 2025
+- **Keywords:** PHEV, WLTP Cycle, Energy Management Strategies, State of Charge (SOC), Regenerative Braking, Efficiency, Powertrain Analysis
+- **Software used:** MATLAB
+- **Goal of the project:** Analyze the performance and consumption of a Plug-in Hybrid Electric Vehicle (PHEV) across the WLTP homologation cycle. The study evaluates the vehicle's overall efficiency and Battery State of Charge (SOC) management by comparing different power split strategies between the Internal Combustion Engine (ICE) and the Electric Motor (EM)
+
+* [Link to Project Report (PDF)](RORVD_lab01_2_HEV_Vehicle.pdf)
+
+---
