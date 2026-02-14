@@ -26,7 +26,7 @@
 
 ---
 
-## 3. WLTP Cycle
+## 3. Ride Comfort
 
 - **Course:** ***Road and Off Road Vehicle Design***
     - **Instructors:** Prof. G. Mastinu, Ing. Stabile
@@ -37,5 +37,19 @@
 - **Goal of the project:** Investigate the vertical dynamic behavior of three distinct vehicles (Giulietta, Alfetta, 159) using a quarter car model. The study independently analyzes how variations in mechanical parameters (mass, stiffness, damping) affect the discomfort index, defined as the standard deviation of the sprung mass vertical acceleration.
 
 * [Link to Project Report (PDF)](RORVD_lab04_1_Comfort.pdf)
+
+---
+
+## 4. Ride Comfort - Driving Simulator Experience
+
+- **Course:** ***Road and Off Road Vehicle Design***
+    - **Instructors:** Prof. G. Mastinu, Ing. Stabile
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini, S. D'Incà
+- **Date:** October 2025
+- **Keywords:** Quarter Car Model, Mode Shapes, Low-Frequency Vibration, High-Frequency Vibration, Driving Simulator, Haptic Feedback
+- **Software used:** []
+- **Goal of the project:** Conduct a test session in a vehicle simulator to physically perceive and analyze the two primary mode shapes identified in the quarter car model. The study compares the driver's internal perception of these vibrations against external visual confirmation from the control room.
+
+* [Link to Project Report (PDF)](RORVD_lab04_2_DRISMI.pdf)
 
 ---
