@@ -109,7 +109,34 @@
 * [Link to Project Report (PDF)](RORVD_lab07_2_Cromodora.pdf)
 ---
 
-## 9. Motorbike Braking System
+## 9. Functional Safety - Capgemini Seminar
+
+- **Course:** ***Road and Off Road Vehicle Design***
+    - **Instructors:** Prof. G. Mastinu, Ing. Stabile
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini, S. D'Incà
+- **Date:** November 2025
+- **Keywords:** Functional Safety (FuSa), IEC 61508, ISO 26262, HARA, ASIL, V-Cycle, Risk Assessment
+- **Software used:** []
+- **Goal of the project:** Provide a comprehensive overview of functional safety standards (IEC 61508 and ISO 26262) and the methodologies used to minimize risk in automotive Electric/Electronic systems. The report details the Hazard Analysis and Risk Assessment (HARA) process 
+
+* [Link to Project Report (PDF)](RORVD_Lab09_1_Capgemini1_FUSA_SOTIF.pdf)
+---
+
+## 10. Failure Mode Effects Analysis  - Capgemini Seminar
+
+- **Course:** ***Road and Off Road Vehicle Design***
+    - **Instructors:** Prof. G. Mastinu, Ing. Stabile
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini, S. D'Incà
+- **Date:** December 2025
+- **Keywords:** Design FMEA (D-FMEA), Preventive Reliability, Risk Priority Number (RPN), Risk Matrix, Root Cause Analysis
+- **Software used:** []
+- **Goal of the project:** Detail the methodology and application of Design Failure Mode & Effect Analysis (D-FMEA) as a tool for preventive reliability. The 7 phases of D-FMEA are analyzed closely
+
+* [Link to Project Report (PDF)](RORVD_Lab09_2_Capgemini2_FMEA.pdf)
+---
+
+## 11. Motorbike Braking System
+
 - **Course:** ***Road and Off Road Vehicle Design***
     - **Instructors:** Prof. G. Mastinu, Ing. Stabile
 - **Authors:** G. Biasolo, M. Cigada, F. D'Agostini, S. D'Incà
@@ -119,4 +146,18 @@
 - **Goal of the project:** Evaluate the braking limits and hydraulic component sizing for a high-performance motorcycle. The study analyzes deceleration limits under adherence and flipping constraints, accounts for aerodynamic effects at racing speeds, and verifies if the rider's required input force is within ergonomic limits
 
 * [Link to Project Report (PDF)](RORVD_Lab08_Brakes.pdf)
+---
+
+
+## 12. Pirelli Test Track Experience
+
+- **Course:** ***Road and Off Road Vehicle Design***
+    - **Instructors:** Prof. G. Mastinu, Ing. Stabile
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini, S. D'Incà
+- **Date:** December 2025
+- **Keywords:** Lateral Dynamics, RWD Stability, Steering Pad, Power-On/Off Maneuvers, Oversteer/Understeer, Load Transfer, Friction Circle
+- **Software used:** []
+- **Goal of the project:** Analyze lateral dynamics theories through a practical driving experience at the Pirelli Vizzola track using a Rear-Wheel Drive (RWD) vehicle. The study examines stability limits, the impact of combined slip, and the practical challenges of controlling unstable equilibrium during steering pad and power-modulated maneuvers
+
+* [Link to Project Report (PDF)](RORVD_Lab10_Pirelli_Vizzola.pdf)
 ---
