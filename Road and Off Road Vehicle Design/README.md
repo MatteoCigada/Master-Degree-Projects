@@ -73,7 +73,7 @@
 - **Course:** ***Road and Off Road Vehicle Design***
     - **Instructors:** Prof. G. Mastinu, Ing. Stabile
 - **Authors:** G. Biasolo, M. Cigada, F. D'Agostini, S. D'Incà
-- **Date:** October 2025
+- **Date:** October 2025 - February 2026
 - **Keywords:** McPherson Suspension, Kinematic Opimization, Lower Control Arm, Topological Optimization, FEM Analysis, Production Drawings
 - **Software used:** MATLAB, 3D Experience
 - **Goal of the project:** Design and structurally validate a McPherson suspension system. The process spans from kinematic optimization (to meet camber and steering targets) to the detailed structural design, optimization, and production specification of the lower control arm. I worked on the optimization, the lower arm and rim design
@@ -81,4 +81,42 @@
 * [Link to Project Report (PDF)](RORVD_lab06_McPherson.pdf)
 * [Link to Lower Arm Production Drawing (PDF)](LOWER_ARM_QUOTATA_V3_MAURO.pdf)
 * [Link to Assembly Drawing (PDF)](MCFRATM_ASSEMBLY_V4.pdf)
+---
+
+## 7. Wheel Rims
+
+- **Course:** ***Road and Off Road Vehicle Design***
+    - **Instructors:** Prof. G. Mastinu, Ing. Stabile
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini, S. D'Incà
+- **Date:** November 2025
+- **Keywords:** Fatigue Life, Aluminum Alloy Wheel, Sines Equivalent Stress, Dynamic Cornering Test, Rotating Bending Moment, Finite Element Model (FEM), Infinite Life Design
+- **Software used:** MATLAB
+- **Goal of the project:** Evaluate the fatigue life of an aluminum alloy wheel rim for a 2024 Audi A1. The study simulates a dynamic cornering fatigue test using a finite element model to analyze the impact of rotating bending moments and determine if the component meets long-term safety standards
+
+* [Link to Project Report (PDF)](RORVD_lab07_1_Wheel_rims.pdf)
+---
+
+## 8. Wheel Rims - Cromodora Seminar
+
+- **Course:** ***Road and Off Road Vehicle Design***
+    - **Instructors:** Prof. G. Mastinu, Ing. Stabile
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini, S. D'Incà
+- **Date:** November 2025
+- **Keywords:** Aluminum Wheels, Casting (GDC, LPDC), Forging, APQP, Wheel Design, Manufacturing Processes
+- **Software used:** []
+- **Goal of the project:** Summarize the key insights from the Cromodora seminar regarding the manufacturing technologies, design requirements, and quality planning frameworks involved in the production of aluminum alloy wheels
+
+* [Link to Project Report (PDF)](RORVD_lab07_2_Cromodora.pdf)
+---
+
+## 9. Motorbike Braking System
+- **Course:** ***Road and Off Road Vehicle Design***
+    - **Instructors:** Prof. G. Mastinu, Ing. Stabile
+- **Authors:** G. Biasolo, M. Cigada, F. D'Agostini, S. D'Incà
+- **Date:** December 2025
+- **Keywords:** Longitudinal Dynamics, Adherence Limit, Geometric Flipping Limit, Aerodynamic Drag, Hydraulic Sizing, Master Cylinder, Calipers
+- **Software used:** Microsoft Excel
+- **Goal of the project:** Evaluate the braking limits and hydraulic component sizing for a high-performance motorcycle. The study analyzes deceleration limits under adherence and flipping constraints, accounts for aerodynamic effects at racing speeds, and verifies if the rider's required input force is within ergonomic limits
+
+* [Link to Project Report (PDF)](RORVD_Lab08_Brakes.pdf)
 ---
