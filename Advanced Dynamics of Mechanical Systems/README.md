@@ -6,12 +6,9 @@
 - **Date:** September 2024 - December 2024
 - **Keywords:** Experimental Modal Analysis, Cantilever Beam, Light Rail Wheel, Natural Frequencies, Mode Shapes, Frequency Response Functions (FRF), Modal Parameter Identification
 - **Software used:** MATLAB
-- **Goal of the project:** Analyze the behavior of a cantilever beam and a light rail wheel through the computation and identification of their modal parameters, validate the procedure used for the cantilever beam by comparing the results with theoretical models and implement the same methodology also for the light rail wheel
-
+- **Goal of the project:** Compute and identify the natural frequencies, mode shapes, and Frequency Response Functions (FRFs) to analyze the dynamic behavior of a cantilever beam and a light rail wheel. Validate the experimental procedure for the beam by comparing the results with theoretical models, and subsequently apply the same identification methodology to the light rail wheel
 
 * [Link to Project Report (PDF)](Project%20report%20Assignment1.pdf)
-
----
 
 ## 2. In-plane Finite Element Model of a Truss Bridge
 
