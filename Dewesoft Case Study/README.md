@@ -1,10 +1,10 @@
 ## 1. Dewesoft Case Study
 
-- **Title:** ***Advanced Dynamics of Mechanical Systems***
+- **Title:** ***Vertical Dynamics Analysis of a Passenger Van***
 - **Author:** M. Cigada
 - **Date:** March 2026
-- **Keywords:** Experimental Modal Analysis, Cantilever Beam, Light Rail Wheel, Natural Frequencies, Mode Shapes, Frequency Response Functions (FRF), Modal Parameter Identification
+- **Keywords:** Vertical Dynamics , Quarter-Car Model , Experimental Modal Analysis , Frequency Response Functions (FRF) , Sprung and Unsprung Mass , Suspension System
 - **Software used:** Dewesoft X
-- **Goal of the project:** Compute and identify the natural frequencies, mode shapes, and Frequency Response Functions (FRFs) to analyze the dynamic behavior of a cantilever beam and a light rail wheel. Validate the experimental procedure for the beam by comparing the results with theoretical models, and subsequently apply the same identification methodology to the light rail wheel
+- **Goal of the project:** Characterize the vertical dynamics of a road vehicle. This is achieved by acquiring and analyzing data from accelerometers placed on the sprung and unsprung masses of a Mercedes Vito passenger van across distinct driving scenarios. Subsequent frequency spectrum and modal analyses identify the system's fundamental dynamic properties, successfully demonstrating the suspension system's behavior as a low-pass filter.
 
-* [Link to Project Report (PDF)](Project%20report%20Assignment1.pdf)
+* [Link to Project Report (PDF)](DW_CaseStudy_Matteo_Giuseppe_Cigada.pdf)
