@@ -20,7 +20,7 @@
 * Authors: M. Cigada, M. Davì, S. D'Incà
 * Academic Year: 2025 - 2026
 * Keywords: Neural Network Surrogate, Physics-Informed Neural Network, Bayesian Optimization, Compliant Base, Chirp Excitation, True-EoM Validation, Robustness
-* Software used: Python
+* Software used: VS Code
 * Goal of the project: Build a surrogate-assisted optimization workflow for a compliant base-arm mechanical system excited by a chirp command. The work includes dataset generation from the true equations of motion, training and comparison of NN and PINN surrogate models, Bayesian Optimization of the command and arm parameters, true-EoM validation of the selected candidate, and robustness checks with respect to base parameters, arm parameters and initial conditions.
 * Report: [Surrogate-Assisted Compliant Base-Arm Optimization](MLMS-PythonProject-Report.pdf)
 * PDF Presentation: [Python Project Presentation - PDF](PythonProject_Presentation.pdf)
