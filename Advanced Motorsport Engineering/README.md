@@ -1,17 +1,3 @@
-# Advanced Motorsport Engineering
-
-This folder contains the laboratory reports and seminar notes developed for the **Advanced Motorsport Engineering** course of the M.Sc. in Mechanical Engineering - Automotive and Motorsport Engineering at Politecnico di Milano.
-
-* Course: Advanced Motorsport Engineering
-  * Instructors: Prof. M. Gobbi, Prof. S. Melzi
-* Authors: M. Cigada, F. D'Agostini, S. D'Incà
-* Academic Year: 2025 - 2026
-* Main topics: Motorsport Vehicle Dynamics, Lap Time Simulation, Tires, Aerodynamics, Braking System Design, Telemetry Analysis, Race Engineering
-* Main software/tools used: MATLAB, OpenLAP, Set4T, WinTax, VI-CRT / VI-grade
-* [Link to Laboratory Reports and Seminar Notes (PDF)](Motorsport_Engineering_Reports.pdf)
-
----
-
 ## 1. Lab00 - Basics
 
 * Course: Advanced Motorsport Engineering
