@@ -5,7 +5,7 @@
 * Authors: M. Atceter, M. Cigada, L. Crosta, F. D'Agostini
 * Date: 24/06/2026
 * Keywords: Human-In-The-Loop, Driving Simulator, DriSMI, Lane Change, Emergency Maneuver, Traffic Scenario, Cueing, Offline Simulation, Driver Comparison
-* Software used: DriSMI Driving Simulator, DriveSim / VI-grade tools
+* Software used: DriSMI Driving Simulator, DriveSim / VI-grade tools, MATLAB
 * Goal of the project: Analyze the behaviour of real drivers inside a dynamic driving simulator and compare human-in-the-loop results with offline simulation references. The activity focuses on the design of a custom driving scenario, the implementation of traffic events, the tuning of the motion cueing strategy, the execution of real-time driving sessions, and the post-processing of the results.
 
 The project is based on a sequence of lane-change maneuvers with increasing difficulty:
