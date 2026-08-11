@@ -1,0 +1,161 @@
+VERSION ""
+
+
+NS_ : 
+	NS_DESC_
+	CM_
+	BA_DEF_
+	BA_
+	VAL_
+	CAT_DEF_
+	CAT_
+	FILTER
+	BA_DEF_DEF_
+	EV_DATA_
+	ENVVAR_DATA_
+	SGTYPE_
+	SGTYPE_VAL_
+	BA_DEF_SGTYPE_
+	BA_SGTYPE_
+	SIG_TYPE_REF_
+	VAL_TABLE_
+	SIG_GROUP_
+	SIG_VALTYPE_
+	SIGTYPE_VALTYPE_
+	BO_TX_BU_
+	BA_DEF_REL_
+	BA_REL_
+	BA_DEF_DEF_REL_
+	BU_SG_REL_
+	BU_EV_REL_
+	BU_BO_REL_
+	SG_MUL_VAL_
+
+BS_:
+
+BU_: DEWESoft
+
+
+BO_ 1584 INSTRUMENT_CLUSTER_7: 8 DEWESoft
+
+BO_ 1567 INSTRUMENT_CLUSTER_6: 8 DEWESoft
+
+BO_ 1562 INSTRUMENT_CLUSTER_5: 8 DEWESoft
+
+BO_ 1560 INSTRUMENT_CLUSTER_4: 8 DEWESoft
+
+BO_ 1557 INSTRUMENT_CLUSTER_3: 8 DEWESoft
+
+BO_ 1555 INSTRUMENT_CLUSTER_2: 8 DEWESoft
+ SG_ Odometry : 0|16@1+ (10,0) [0|655350] "km"  DEWESoft
+ SG_ FUEL_QUANTITY : 16|8@1+ (1,0) [0|255] "l"  DEWESoft
+
+BO_ 1552 INSTRUMENT_CLUSTER_1: 8 DEWESoft
+
+BO_ 1349 ECU_5: 8 DEWESoft
+ SG_ Engine_Malfunction_Light : 1|1@1+ (1,0) [0|1] "-"  DEWESoft
+ SG_ Check_engine_light : 3|1@1+ (1,0) [0|1] "-"  DEWESoft
+ SG_ FUEL_CONSUMPTION_RATE : 8|16@1+ (1,0) [0|65535] "-"  DEWESoft
+ SG_ Overheating_Warning_Light : 27|1@1+ (1,0) [0|1] "-"  DEWESoft
+ SG_ Charging_Malfunction_Light : 40|1@1+ (1,0) [0|1] "-"  DEWESoft
+
+BO_ 1329 ECU_4: 0 DEWESoft
+
+BO_ 822 ECU_3: 8 DEWESoft
+
+BO_ 809 ECU_2: 8 DEWESoft
+ SG_ COUNTER : 0|8@1+ (1,0) [0|255] "-"  DEWESoft
+ SG_ Coolant_temperature_sensor : 8|8@1+ (0.75,-48.373) [-48.373|142.877] "_C"  DEWESoft
+ SG_ Throttle_pedal : 40|8@1+ (0.392156,0) [0|100] "%"  DEWESoft
+
+BO_ 790 ECU_1: 8 DEWESoft
+ SG_ Terminal_15_On_Off : 0|1@1+ (1,0) [0|1] "-"  DEWESoft
+ SG_ Engine_RPM : 16|16@1+ (0.15625,0) [0|7500] "RPM"  DEWESoft
+
+BO_ 507 ABS_4: 8 DEWESoft
+
+BO_ 504 ABS_3: 8 DEWESoft
+
+BO_ 501 STEERING_WHEEL_POS_SENSOR: 8 DEWESoft
+ SG_ STEERING_ANGLE : 0|15@1- (0.0218446602,0) [-357.9029127|357.8810681] "degree"  DEWESoft
+ SG_ STEERING_DIRECTION : 15|1@1+ (1,0) [0|1] "-"  DEWESoft
+ SG_ STEERING_ANGULAR_VELOCITY : 16|15@1+ (0.02184466,0) [0|715.7839742] "degrees/s"  DEWESoft
+ SG_ STEERING_VELOCITY_DIRECTION : 31|1@1+ (1,0) [0|1] "-"  DEWESoft
+ SG_ COUNT : 44|4@1+ (1,0) [0|15] "-"  DEWESoft
+
+BO_ 499 ABS_2: 8 DEWESoft
+
+BO_ 496 ABS_1: 8 DEWESoft
+ SG_ WHEEL_SPEED_FRONT_LEFT : 0|12@1+ (0.0625,-0.6) [-0.6|255.3375] "km/h"  DEWESoft
+ SG_ COUNTER : 13|2@1+ (1,0) [0|3] "-"  DEWESoft
+ SG_ WHEEL_SPEED_FRONT_RIGHT : 16|12@1+ (0.0625,-0.6) [-0.6|255.3375] "km/h"  DEWESoft
+ SG_ WHEEL_SPEED_BACK_LEFT : 32|12@1+ (0.0625,-0.6) [-0.6|255.3375] "km/h"  DEWESoft
+ SG_ WHEEL_SPEED_BACK_RIGHT : 48|12@1+ (0.0625,-0.6) [-0.6|255.3375] "km/h"  DEWESoft
+
+BO_ 339 ASC_1: 8 DEWESoft
+ SG_ BRAKE_PEDAL_SIGNAL : 4|1@1+ (1,0) [0|1] "-"  DEWESoft
+ SG_ Vehicle_speed_signal : 8|15@1+ (0.0071779744,0) [0|235.2006872] "km/h"  DEWESoft
+
+BO_ 3221225472 VECTOR__INDEPENDENT_SIG_MSG: 0 Vector__XXX
+ SG_ OUTSIDE_AIR : 24|8@1+ (1,0) [0|255] "_C"  DEWESoft
+
+
+
+CM_ SG_ 1555 Odometry "-";
+CM_ SG_ 1555 FUEL_QUANTITY "-";
+CM_ SG_ 1349 Engine_Malfunction_Light "EML";
+CM_ SG_ 1349 Check_engine_light "-";
+CM_ SG_ 1349 FUEL_CONSUMPTION_RATE "-";
+CM_ SG_ 1349 Overheating_Warning_Light "-";
+CM_ SG_ 1349 Charging_Malfunction_Light "-";
+CM_ SG_ 809 COUNTER "-";
+CM_ SG_ 809 Coolant_temperature_sensor "-";
+CM_ SG_ 809 Throttle_pedal "TPS";
+CM_ SG_ 790 Terminal_15_On_Off "on = 1, off = 0";
+CM_ SG_ 790 Engine_RPM "Engine speed";
+CM_ SG_ 501 STEERING_ANGLE "-";
+CM_ SG_ 501 STEERING_DIRECTION "-";
+CM_ SG_ 501 STEERING_ANGULAR_VELOCITY "-";
+CM_ SG_ 501 STEERING_VELOCITY_DIRECTION "-";
+CM_ SG_ 501 COUNT "-";
+CM_ SG_ 496 WHEEL_SPEED_FRONT_LEFT "-";
+CM_ SG_ 496 COUNTER "-";
+CM_ SG_ 496 WHEEL_SPEED_FRONT_RIGHT "-";
+CM_ SG_ 496 WHEEL_SPEED_BACK_LEFT "-";
+CM_ SG_ 496 WHEEL_SPEED_BACK_RIGHT "-";
+CM_ SG_ 339 BRAKE_PEDAL_SIGNAL "1 - brake depressed; 0 - brake relased";
+CM_ SG_ 339 Vehicle_speed_signal "-";
+CM_ SG_ 3221225472 OUTSIDE_AIR "-";
+BA_DEF_ BO_  "DEWESoft_Msg_Name" STRING ;
+BA_DEF_ SG_  "DEWESoft_Sig_Name" STRING ;
+BA_DEF_DEF_  "DEWESoft_Msg_Name" "";
+BA_DEF_DEF_  "DEWESoft_Sig_Name" "";
+BA_ "DEWESoft_Msg_Name" BO_ 1584 "INSTRUMENT CLUSTER_7";
+BA_ "DEWESoft_Msg_Name" BO_ 1567 "INSTRUMENT CLUSTER_6";
+BA_ "DEWESoft_Msg_Name" BO_ 1562 "INSTRUMENT CLUSTER_5";
+BA_ "DEWESoft_Msg_Name" BO_ 1560 "INSTRUMENT CLUSTER_4";
+BA_ "DEWESoft_Msg_Name" BO_ 1557 "INSTRUMENT CLUSTER_3";
+BA_ "DEWESoft_Msg_Name" BO_ 1555 "INSTRUMENT CLUSTER_2";
+BA_ "DEWESoft_Sig_Name" SG_ 1555 FUEL_QUANTITY "FUEL QUANTITY";
+BA_ "DEWESoft_Msg_Name" BO_ 1552 "INSTRUMENT CLUSTER_1";
+BA_ "DEWESoft_Sig_Name" SG_ 1349 Engine_Malfunction_Light "Engine Malfunction Light";
+BA_ "DEWESoft_Sig_Name" SG_ 1349 Check_engine_light "Check engine light";
+BA_ "DEWESoft_Sig_Name" SG_ 1349 FUEL_CONSUMPTION_RATE "FUEL CONSUMPTION RATE";
+BA_ "DEWESoft_Sig_Name" SG_ 1349 Overheating_Warning_Light "Overheating Warning Light";
+BA_ "DEWESoft_Sig_Name" SG_ 1349 Charging_Malfunction_Light "Charging Malfunction Light";
+BA_ "DEWESoft_Sig_Name" SG_ 809 Coolant_temperature_sensor "Coolant temperature sensor";
+BA_ "DEWESoft_Sig_Name" SG_ 809 Throttle_pedal "Throttle pedal";
+BA_ "DEWESoft_Sig_Name" SG_ 790 Terminal_15_On_Off "Terminal 15 On/Off";
+BA_ "DEWESoft_Sig_Name" SG_ 790 Engine_RPM "Engine RPM";
+BA_ "DEWESoft_Msg_Name" BO_ 501 "steering pos sensor";
+BA_ "DEWESoft_Sig_Name" SG_ 501 STEERING_ANGLE "STEERING ANGLE";
+BA_ "DEWESoft_Sig_Name" SG_ 501 STEERING_DIRECTION "STEERING DIRECTION";
+BA_ "DEWESoft_Sig_Name" SG_ 501 STEERING_ANGULAR_VELOCITY "STEERING ANGULAR VELOCITY";
+BA_ "DEWESoft_Sig_Name" SG_ 501 STEERING_VELOCITY_DIRECTION "STEERING VELOCITY DIRECTION";
+BA_ "DEWESoft_Sig_Name" SG_ 496 WHEEL_SPEED_FRONT_LEFT "WHEEL SPEED FRONT LEFT";
+BA_ "DEWESoft_Sig_Name" SG_ 496 WHEEL_SPEED_FRONT_RIGHT "WHEEL SPEED FRONT RIGHT";
+BA_ "DEWESoft_Sig_Name" SG_ 496 WHEEL_SPEED_BACK_LEFT "WHEEL SPEED BACK LEFT";
+BA_ "DEWESoft_Sig_Name" SG_ 496 WHEEL_SPEED_BACK_RIGHT "WHEEL SPEED BACK RIGHT";
+BA_ "DEWESoft_Sig_Name" SG_ 339 BRAKE_PEDAL_SIGNAL "BRAKE PEDAL SIGNAL";
+BA_ "DEWESoft_Sig_Name" SG_ 3221225472 OUTSIDE_AIR "OUTSIDE AIR";
+
